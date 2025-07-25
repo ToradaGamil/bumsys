@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '172'
-gem 'foreman'
+gem 'github-pages', '173'
+gem 'foreman', '>= 0.86.0'
